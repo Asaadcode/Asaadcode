@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Asaad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **I’m currently working on building front end projects to improve my HTML, CSS, and JavaScript skills.**
