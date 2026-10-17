@@ -71,7 +71,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:asaadcreate@gmail.com" target="_blank">
+  <a href="mailto:asaadcreate@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/asaaddev" target="_blank">
